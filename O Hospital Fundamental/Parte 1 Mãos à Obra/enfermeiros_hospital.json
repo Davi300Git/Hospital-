@@ -1,5 +1,4 @@
-{
-  "enfermeiros": [
+[
     {
       "id_enfermeiro": 1,
       "nome": "Marcelo Silva Oliveira",
@@ -271,4 +270,3 @@
       "coren": "COREN-SP 123500"
     }
   ]
-}
