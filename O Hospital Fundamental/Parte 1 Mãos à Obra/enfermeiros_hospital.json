@@ -1,0 +1,63 @@
+
+[
+    {
+      "id_enfermeiro": 1,
+      "nome": "Marcelo Silva Oliveira",
+      "cpf": "11122233301",
+      "coren": "COREN-SP 123456"
+    },
+    {
+      "id_enfermeiro": 2,
+      "nome": "Bruno Costa Santos",
+      "cpf": "11122233302",
+      "coren": "COREN-SP 123457"
+    },
+    {
+      "id_enfermeiro": 3,
+      "nome": "Daniel Pereira Almeida",
+      "cpf": "11122233303",
+      "coren": "COREN-SP 123458"
+    },
+    {
+      "id_enfermeiro": 4,
+      "nome": "Ester Fernandes Ribeiro",
+      "cpf": "11122233304",
+      "coren": "COREN-SP 123459"
+    },
+    {
+      "id_enfermeiro": 5,
+      "nome": "Enderson Gomes Carvalho",
+      "cpf": "11122233305",
+      "coren": "COREN-SP 123460"
+    },
+    {
+      "id_enfermeiro": 6,
+      "nome": "Gabriel Nunes Martins",
+      "cpf": "11122233306",
+      "coren": "COREN-SP 123461"
+    },
+    {
+      "id_enfermeiro": 7,
+      "nome": "Juliana Santos Castro",
+      "cpf": "11122233307",
+      "coren": "COREN-SP 123462"
+    },
+    {
+      "id_enfermeiro": 8,
+      "nome": "Natanael Lima Duarte",
+      "cpf": "11122233308",
+      "coren": "COREN-SP 123463"
+    },
+    {
+      "id_enfermeiro": 9,
+      "nome": "Rogerio Mendes Gonçalves",
+      "cpf": "11122233309",
+      "coren": "COREN-SP 123464"
+    },
+    {
+      "id_enfermeiro": 10,
+      "nome": "Vinicius Torres Pires",
+      "cpf": "11122233310",
+      "coren": "COREN-SP 123465"
+    }
+  ]
