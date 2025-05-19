@@ -1,0 +1,14 @@
+[
+  { "_id": 101, "nome": "Dr. Carlos Silva", "crm": "CRM-SP1001", "especialidade_id": 1 },
+  { "_id": 102, "nome": "Dra. Ana Martins", "crm": "CRM-SP1002", "especialidade_id": 2 },
+  { "_id": 103, "nome": "Dr. João Souza", "crm": "CRM-SP1003", "especialidade_id": 3 },
+  { "_id": 104, "nome": "Dra. Fernanda Lima", "crm": "CRM-SP1004", "especialidade_id": 4 },
+  { "_id": 105, "nome": "Dr. Ricardo Alves", "crm": "CRM-SP1005", "especialidade_id": 5 },
+  { "_id": 106, "nome": "Dra. Paula Santos", "crm": "CRM-SP1006", "especialidade_id": 6 },
+  { "_id": 107, "nome": "Dr. Eduardo Rocha", "crm": "CRM-SP1007", "especialidade_id": 7 },
+  { "_id": 108, "nome": "Dra. Juliana Costa", "crm": "CRM-SP1008", "especialidade_id": 1 },
+  { "_id": 109, "nome": "Dr. Marcos Pinto", "crm": "CRM-SP1009", "especialidade_id": 2 },
+  { "_id": 110, "nome": "Dra. Carla Ferreira", "crm": "CRM-SP1010", "especialidade_id": 3 },
+  { "_id": 111, "nome": "Dr. Roberto Dias", "crm": "CRM-SP1011", "especialidade_id": 4 },
+  { "_id": 112, "nome": "Dra. Mariana Lima", "crm": "CRM-SP1012", "especialidade_id": 5 }
+]
