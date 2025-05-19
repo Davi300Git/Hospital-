@@ -1,0 +1,72 @@
+[
+    {
+      "id_receita": 1,
+      "id_consulta": 1,
+      "data_emissao": "2022-01-10",
+      "instrucoes_gerais": "Tomar os medicamentos com intervalos de 8 horas, após as refeições",
+      "validade": "2022-02-10"
+    },
+    {
+      "id_receita": 2,
+      "id_consulta": 2,
+      "data_emissao": "2022-01-15",
+      "instrucoes_gerais": "Medicamentos devem ser tomados com bastante água",
+      "validade": "2022-02-15"
+    },
+    {
+      "id_receita": 3,
+      "id_consulta": 3,
+      "data_emissao": "2022-02-05",
+      "instrucoes_gerais": "Evitar dirigir após tomar a medicação",
+      "validade": "2022-03-05"
+    },
+    {
+      "id_receita": 4,
+      "id_consulta": 5,
+      "data_emissao": "2022-02-20",
+      "instrucoes_gerais": "Não consumir bebidas alcoólicas durante o tratamento",
+      "validade": "2022-03-20"
+    },
+    {
+      "id_receita": 5,
+      "id_consulta": 7,
+      "data_emissao": "2022-03-10",
+      "instrucoes_gerais": "Manter uso regular mesmo com melhora dos sintomas",
+      "validade": "2022-04-10"
+    },
+    {
+      "id_receita": 6,
+      "id_consulta": 10,
+      "data_emissao": "2022-03-25",
+      "instrucoes_gerais": "Tomar primeiro medicamento ao acordar e último antes de dormir",
+      "validade": "2022-04-25"
+    },
+    {
+      "id_receita": 7,
+      "id_consulta": 12,
+      "data_emissao": "2022-04-05",
+      "instrucoes_gerais": "Em caso de efeitos colaterais, suspender e procurar médico",
+      "validade": "2022-05-05"
+    },
+    {
+      "id_receita": 8,
+      "id_consulta": 15,
+      "data_emissao": "2022-04-18",
+      "instrucoes_gerais": "Manter dieta leve durante o tratamento",
+      "validade": "2022-05-18"
+    },
+    {
+      "id_receita": 9,
+      "id_consulta": 17,
+      "data_emissao": "2022-05-02",
+      "instrucoes_gerais": "Não interromper tratamento sem orientação médica",
+      "validade": "2022-06-02"
+    },
+    {
+      "id_receita": 10,
+      "id_consulta": 20,
+      "data_emissao": "2022-05-20",
+      "instrucoes_gerais": "Armazenar medicamentos em local fresco e seco",
+      "validade": "2022-06-20"
+    }
+  ]
