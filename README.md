@@ -10,7 +10,7 @@ Este repositório documenta a construção de um sistema de gerenciamento hospit
 * `sobre-as-queries.md`: detalhamento técnico das principais queries utilizadas.
 
   <p align="center">
-  <img src="O Hospital Fundamental/assets/img_diagrama.jpg" alt="Diagrama" width="700"/>
+  <img src="O Hospital Fundamental/assets/diagrama.png" alt="Diagrama" width="700"/>
 </p>
 
 📚 Funcionalidades por Coleção
