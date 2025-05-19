@@ -1,0 +1,30 @@
+[
+    {
+      "id_convenio": 1,
+      "nome": "Amor(Gratuito)",
+      "cnpj": "11111111000101",
+      "tempo_carencia": 180,
+      "endereco": "Bairro Alto"
+    },
+    {
+      "id_convenio": 2,
+      "nome": "Luva de Plástico (Bronze)",
+      "cnpj": "22222222000102",
+      "tempo_carencia": 180,
+      "endereco": "São Paulo"
+    },
+    {
+      "id_convenio": 3,
+      "nome": "Jaleco de Aço (Prata)",
+      "cnpj": "33333333000103",
+      "tempo_carencia": 180,
+      "endereco": "Caraguatatuba"
+    },
+    {
+      "id_convenio": 4,
+      "nome": "Mãos de Diamante (Ouro)",
+      "cnpj": "44444444000104",
+      "tempo_carencia": 180,
+      "endereco": "Cotia"
+    }
+  ]
