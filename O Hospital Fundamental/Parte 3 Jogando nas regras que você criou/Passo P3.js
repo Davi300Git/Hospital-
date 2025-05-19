@@ -1,4 +1,4 @@
-use hospital;
+//use hospital;
 
 db.consultas.insertOne({
   _id: 811,
