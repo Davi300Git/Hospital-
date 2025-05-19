@@ -1,0 +1,27 @@
+[
+  {
+    "id_tipo_quarto": 1,
+    "descricao": "Quarto Coletivo",
+    "valor_diaria": 300.00
+  },
+  {
+    "id_tipo_quarto": 2,
+    "descricao": "Semi-Privativo",
+    "valor_diaria": 600.00
+  },
+  {
+    "id_tipo_quarto": 3,
+    "descricao": "Quarto Privativo",
+    "valor_diaria": 900.00
+  },
+  {
+    "id_tipo_quarto": 4,
+    "descricao": "Suíte Luxo",
+    "valor_diaria": 1500.00
+  },
+  {
+    "id_tipo_quarto": 5,
+    "descricao": "Suíte Presidencial com UTI",
+    "valor_diaria": 2500.00
+  }
+]
