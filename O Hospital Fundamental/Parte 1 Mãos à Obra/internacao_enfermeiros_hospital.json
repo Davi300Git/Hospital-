@@ -1,0 +1,26 @@
+[
+  {
+    "id_internacao": 1,
+    "id_enfermeiro": 301
+  },
+  {
+    "id_internacao": 1,
+    "id_enfermeiro": 302
+  },
+  {
+    "id_internacao": 2,
+    "id_enfermeiro": 303
+  },
+  {
+    "id_internacao": 3,
+    "id_enfermeiro": 304
+  },
+  {
+    "id_internacao": 3,
+    "id_enfermeiro": 305
+  },
+  {
+    "id_internacao": 3,
+    "id_enfermeiro": 306
+  }
+]
