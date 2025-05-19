@@ -2,21 +2,351 @@
     {
       "id_medicamento": 1,
       "nome": "Paracetamol",
-      "descricao": "Analgésico e antitérmico"
+      "descricao": "Analgésico e antitérmico para dores leves e moderadas",
+      "tipo": "Analgésico",
+      "classe_terapeutica": "Analgésico não-opioide"
     },
     {
       "id_medicamento": 2,
-      "nome": "Ibuprofeno",
-      "descricao": "Anti-inflamatório não esteroidal"
+      "nome": "Dipirona Sódica",
+      "descricao": "Analgésico e antitérmico para controle da dor e febre",
+      "tipo": "Analgésico",
+      "classe_terapeutica": "Analgésico não-opioide"
     },
     {
       "id_medicamento": 3,
-      "nome": "Amoxicilina",
-      "descricao": "Antibiótico penicilina"
+      "nome": "Ibuprofeno",
+      "descricao": "Anti-inflamatório não esteroidal para dores e inflamações",
+      "tipo": "Anti-inflamatório",
+      "classe_terapeutica": "AINE"
     },
     {
       "id_medicamento": 4,
+      "nome": "Ácido Acetilsalicílico (AAS)",
+      "descricao": "Antiagregante plaquetário e analgésico",
+      "tipo": "Antiagregante",
+      "classe_terapeutica": "Salicilato"
+    },
+    {
+      "id_medicamento": 5,
       "nome": "Omeprazol",
-      "descricao": "Inibidor de bomba de prótons"
+      "descricao": "Inibidor da bomba de prótons para gastrite e úlceras",
+      "tipo": "Gastrointestinal",
+      "classe_terapeutica": "IBP"
+    },
+    {
+      "id_medicamento": 6,
+      "nome": "Amoxicilina",
+      "descricao": "Antibiótico beta-lactâmico para infecções bacterianas",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Penicilina"
+    },
+    {
+      "id_medicamento": 7,
+      "nome": "Azitromicina",
+      "descricao": "Antibiótico macrolídeo para infecções respiratórias",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Macrolídeo"
+    },
+    {
+      "id_medicamento": 8,
+      "nome": "Ceftriaxona",
+      "descricao": "Antibiótico cefalosporina de terceira geração",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Cefalosporina"
+    },
+    {
+      "id_medicamento": 9,
+      "nome": "Dexametasona",
+      "descricao": "Corticosteroide para processos inflamatórios e alérgicos",
+      "tipo": "Corticosteroide",
+      "classe_terapeutica": "Glicocorticóide"
+    },
+    {
+      "id_medicamento": 10,
+      "nome": "Hidroclorotiazida",
+      "descricao": "Diurético para hipertensão e edemas",
+      "tipo": "Diurético",
+      "classe_terapeutica": "Tiazida"
+    },
+    {
+      "id_medicamento": 11,
+      "nome": "Losartana Potássica",
+      "descricao": "Anti-hipertensivo bloqueador do receptor da angiotensina II",
+      "tipo": "Anti-hipertensivo",
+      "classe_terapeutica": "BRA"
+    },
+    {
+      "id_medicamento": 12,
+      "nome": "Atenolol",
+      "descricao": "Betabloqueador para hipertensão e cardiopatias",
+      "tipo": "Cardiovascular",
+      "classe_terapeutica": "Betabloqueador"
+    },
+    {
+      "id_medicamento": 13,
+      "nome": "Sinvastatina",
+      "descricao": "Hipolipemiante para redução do colesterol",
+      "tipo": "Hipolipemiante",
+      "classe_terapeutica": "Estatinas"
+    },
+    {
+      "id_medicamento": 14,
+      "nome": "Metformina",
+      "descricao": "Hipoglicemiante oral para diabetes tipo 2",
+      "tipo": "Antidiabético",
+      "classe_terapeutica": "Biguanida"
+    },
+    {
+      "id_medicamento": 15,
+      "nome": "Insulina NPH",
+      "descricao": "Insulina de ação intermediária para diabetes",
+      "tipo": "Antidiabético",
+      "classe_terapeutica": "Insulina"
+    },
+    {
+      "id_medicamento": 16,
+      "nome": "Warfarina Sódica",
+      "descricao": "Anticoagulante oral para prevenção de trombose",
+      "tipo": "Anticoagulante",
+      "classe_terapeutica": "Antivitamina K"
+    },
+    {
+      "id_medicamento": 17,
+      "nome": "Clopidogrel",
+      "descricao": "Antiagregante plaquetário para prevenção de eventos cardiovasculares",
+      "tipo": "Antiagregante",
+      "classe_terapeutica": "Inibidor P2Y12"
+    },
+    {
+      "id_medicamento": 18,
+      "nome": "Furosemida",
+      "descricao": "Diurético de alça para edemas e insuficiência cardíaca",
+      "tipo": "Diurético",
+      "classe_terapeutica": "Diurético de alça"
+    },
+    {
+      "id_medicamento": 19,
+      "nome": "Morfina",
+      "descricao": "Analgésico opioide para dor intensa",
+      "tipo": "Analgésico",
+      "classe_terapeutica": "Opioide"
+    },
+    {
+      "id_medicamento": 20,
+      "nome": "Tramadol",
+      "descricao": "Analgésico opioide para dor moderada a intensa",
+      "tipo": "Analgésico",
+      "classe_terapeutica": "Opioide"
+    },
+    {
+      "id_medicamento": 21,
+      "nome": "Diazepam",
+      "descricao": "Ansiolítico e relaxante muscular",
+      "tipo": "Ansiolítico",
+      "classe_terapeutica": "Benzodiazepínico"
+    },
+    {
+      "id_medicamento": 22,
+      "nome": "Fluoxetina",
+      "descricao": "Antidepressivo inibidor seletivo da recaptação de serotonina",
+      "tipo": "Antidepressivo",
+      "classe_terapeutica": "ISRS"
+    },
+    {
+      "id_medicamento": 23,
+      "nome": "Haloperidol",
+      "descricao": "Antipsicótico para tratamento de psicoses",
+      "tipo": "Antipsicótico",
+      "classe_terapeutica": "Butirofenona"
+    },
+    {
+      "id_medicamento": 24,
+      "nome": "Carbamazepina",
+      "descricao": "Anticonvulsivante e estabilizador de humor",
+      "tipo": "Anticonvulsivante",
+      "classe_terapeutica": "Iminostilbeno"
+    },
+    {
+      "id_medicamento": 25,
+      "nome": "Levotiroxina Sódica",
+      "descricao": "Reposição hormonal para hipotireoidismo",
+      "tipo": "Hormônio",
+      "classe_terapeutica": "Tireoide"
+    },
+    {
+      "id_medicamento": 26,
+      "nome": "Prednisona",
+      "descricao": "Corticosteroide para doenças inflamatórias e autoimunes",
+      "tipo": "Corticosteroide",
+      "classe_terapeutica": "Glicocorticóide"
+    },
+    {
+      "id_medicamento": 27,
+      "nome": "Ranitidina",
+      "descricao": "Antagonista H2 para úlceras e refluxo",
+      "tipo": "Gastrointestinal",
+      "classe_terapeutica": "Antagonista H2"
+    },
+    {
+      "id_medicamento": 28,
+      "nome": "Sulfato Ferroso",
+      "descricao": "Suplemento de ferro para anemias carenciais",
+      "tipo": "Suplemento",
+      "classe_terapeutica": "Mineral"
+    },
+    {
+      "id_medicamento": 29,
+      "nome": "Captopril",
+      "descricao": "Inibidor da ECA para hipertensão e insuficiência cardíaca",
+      "tipo": "Anti-hipertensivo",
+      "classe_terapeutica": "IECA"
+    },
+    {
+      "id_medicamento": 30,
+      "nome": "Digoxina",
+      "descricao": "Cardiotônico para insuficiência cardíaca e arritmias",
+      "tipo": "Cardiovascular",
+      "classe_terapeutica": "Glicosídeo cardíaco"
+    },
+    {
+      "id_medicamento": 31,
+      "nome": "Heparina Sódica",
+      "descricao": "Anticoagulante parenteral para trombose e embolia",
+      "tipo": "Anticoagulante",
+      "classe_terapeutica": "Antitrombótico"
+    },
+    {
+      "id_medicamento": 32,
+      "nome": "Metronidazol",
+      "descricao": "Antibiótico e antiprotozoário para infecções anaeróbias",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Nitroimidazol"
+    },
+    {
+      "id_medicamento": 33,
+      "nome": "Ciprofloxacino",
+      "descricao": "Antibiótico fluoroquinolona para infecções bacterianas",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Quinolona"
+    },
+    {
+      "id_medicamento": 34,
+      "nome": "Vancomicina",
+      "descricao": "Antibiótico glicopeptídeo para infecções por MRSA",
+      "tipo": "Antibiótico",
+      "classe_terapeutica": "Glicopeptídeo"
+    },
+    {
+      "id_medicamento": 35,
+      "nome": "Rivotril (Clonazepam)",
+      "descricao": "Anticonvulsivante e ansiolítico",
+      "tipo": "Anticonvulsivante",
+      "classe_terapeutica": "Benzodiazepínico"
+    },
+    {
+      "id_medicamento": 36,
+      "nome": "Risperidona",
+      "descricao": "Antipsicótico atípico para esquizofrenia e transtorno bipolar",
+      "tipo": "Antipsicótico",
+      "classe_terapeutica": "Benzisoxazol"
+    },
+    {
+      "id_medicamento": 37,
+      "nome": "Sertralina",
+      "descricao": "Antidepressivo ISRS para depressão e transtornos de ansiedade",
+      "tipo": "Antidepressivo",
+      "classe_terapeutica": "ISRS"
+    },
+    {
+      "id_medicamento": 38,
+      "nome": "Pantoprazol",
+      "descricao": "Inibidor da bomba de prótons para gastrite e refluxo",
+      "tipo": "Gastrointestinal",
+      "classe_terapeutica": "IBP"
+    },
+    {
+      "id_medicamento": 39,
+      "nome": "Espironolactona",
+      "descricao": "Diurético poupador de potássio para hipertensão e edemas",
+      "tipo": "Diurético",
+      "classe_terapeutica": "Antialdosterônico"
+    },
+    {
+      "id_medicamento": 40,
+      "nome": "Fenitoína",
+      "descricao": "Anticonvulsivante para epilepsia e arritmias cardíacas",
+      "tipo": "Anticonvulsivante",
+      "classe_terapeutica": "Hidantoína"
+    },
+    {
+      "id_medicamento": 41,
+      "nome": "Midazolam",
+      "descricao": "Sedativo e ansiolítico para procedimentos e indução anestésica",
+      "tipo": "Sedativo",
+      "classe_terapeutica": "Benzodiazepínico"
+    },
+    {
+      "id_medicamento": 42,
+      "nome": "Propofol",
+      "descricao": "Anestésico intravenoso para indução e manutenção anestésica",
+      "tipo": "Anestésico",
+      "classe_terapeutica": "Alquilfenol"
+    },
+    {
+      "id_medicamento": 43,
+      "nome": "Succinilcolina",
+      "descricao": "Bloqueador neuromuscular despolarizante para intubação",
+      "tipo": "Bloqueador neuromuscular",
+      "classe_terapeutica": "Despolarizante"
+    },
+    {
+      "id_medicamento": 44,
+      "nome": "Adrenalina",
+      "descricao": "Vasopressor para parada cardiorrespiratória e anafilaxia",
+      "tipo": "Vasoativo",
+      "classe_terapeutica": "Catecolamina"
+    },
+    {
+      "id_medicamento": 45,
+      "nome": "Noradrenalina",
+      "descricao": "Vasopressor para choque séptico e hipotensão grave",
+      "tipo": "Vasoativo",
+      "classe_terapeutica": "Catecolamina"
+    },
+    {
+      "id_medicamento": 46,
+      "nome": "Dobutamina",
+      "descricao": "Inotrópico positivo para insuficiência cardíaca aguda",
+      "tipo": "Cardiovascular",
+      "classe_terapeutica": "Catecolamina"
+    },
+    {
+      "id_medicamento": 47,
+      "nome": "Insulina Regular",
+      "descricao": "Insulina de ação rápida para controle glicêmico",
+      "tipo": "Antidiabético",
+      "classe_terapeutica": "Insulina"
+    },
+    {
+      "id_medicamento": 48,
+      "nome": "Metoclopramida",
+      "descricao": "Anti-emético e pró-cinético para náuseas e vômitos",
+      "tipo": "Gastrointestinal",
+      "classe_terapeutica": "Antiemético"
+    },
+    {
+      "id_medicamento": 49,
+      "nome": "Ondansetrona",
+      "descricao": "Antiemético para náuseas e vômitos pós-quimioterapia",
+      "tipo": "Antiemético",
+      "classe_terapeutica": "Antagonista 5-HT3"
+    },
+    {
+      "id_medicamento": 50,
+      "nome": "Rocurônio",
+      "descricao": "Bloqueador neuromuscular não-despolarizante para intubação",
+      "tipo": "Bloqueador neuromuscular",
+      "classe_terapeutica": "Aminosteroide"
     }
-]
+  ]
