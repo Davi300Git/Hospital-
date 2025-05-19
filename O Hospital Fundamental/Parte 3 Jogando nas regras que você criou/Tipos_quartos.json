@@ -1,0 +1,5 @@
+[
+  { "_id": 401, "descricao": "Apartamento", "valor_diario": 500.00 },
+  { "_id": 402, "descricao": "Quarto Duplo", "valor_diario": 300.00 },
+  { "_id": 403, "descricao": "Enfermaria", "valor_diario": 150.00 }
+]
