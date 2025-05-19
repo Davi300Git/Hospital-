@@ -1,0 +1,171 @@
+[
+  {
+    "_id": 801,
+    "data_hora": "2015-01-10T09:00:00Z",
+    "paciente_id": 201,
+    "medico_id": 101,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Paracetamol", "dosagem": "500mg", "frequencia": "8/8h"},
+        {"nome": "Ibuprofeno", "dosagem": "400mg", "frequencia": "12/12h"}
+      ]
+    }
+  },
+  {
+    "_id": 802,
+    "data_hora": "2015-02-20T14:00:00Z",
+    "paciente_id": 202,
+    "medico_id": 102
+  },
+  {
+    "_id": 803,
+    "data_hora": "2015-03-15T10:30:00Z",
+    "paciente_id": 203,
+    "medico_id": 103,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Omeprazol", "dosagem": "20mg", "frequencia": "1/dia"},
+        {"nome": "Domperidona", "dosagem": "10mg", "frequencia": "3/dia"}
+      ]
+    }
+  },
+  {
+    "_id": 804,
+    "data_hora": "2015-05-01T08:45:00Z",
+    "paciente_id": 204,
+    "medico_id": 104
+  },
+  {
+    "_id": 805,
+    "data_hora": "2015-06-12T11:15:00Z",
+    "paciente_id": 205,
+    "medico_id": 105,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Cetirizina", "dosagem": "10mg", "frequencia": "1/dia"},
+        {"nome": "Prednisona", "dosagem": "20mg", "frequencia": "1/dia"},
+        {"nome": "Amoxicilina", "dosagem": "500mg", "frequencia": "8/8h"}
+      ]
+    }
+  },
+  {
+    "_id": 806,
+    "data_hora": "2016-01-20T09:30:00Z",
+    "paciente_id": 206,
+    "medico_id": 106
+  },
+  {
+    "_id": 807,
+    "data_hora": "2016-03-11T15:00:00Z",
+    "paciente_id": 207,
+    "medico_id": 107,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Losartana", "dosagem": "50mg", "frequencia": "1/dia"},
+        {"nome": "Atenolol", "dosagem": "25mg", "frequencia": "1/dia"}
+      ]
+    }
+  },
+  {
+    "_id": 808,
+    "data_hora": "2016-05-23T10:00:00Z",
+    "paciente_id": 208,
+    "medico_id": 108
+  },
+  {
+    "_id": 809,
+    "data_hora": "2016-07-19T14:30:00Z",
+    "paciente_id": 209,
+    "medico_id": 109
+  },
+  {
+    "_id": 810,
+    "data_hora": "2016-09-05T16:00:00Z",
+    "paciente_id": 210,
+    "medico_id": 110,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Dipirona", "dosagem": "500mg", "frequencia": "8/8h"},
+        {"nome": "Amoxicilina", "dosagem": "500mg", "frequencia": "8/8h"}
+      ]
+    }
+  },
+  {
+    "_id": 811,
+    "data_hora": "2017-01-12T09:00:00Z",
+    "paciente_id": 211,
+    "medico_id": 111
+  },
+  {
+    "_id": 812,
+    "data_hora": "2017-03-22T13:15:00Z",
+    "paciente_id": 212,
+    "medico_id": 112,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Ranitidina", "dosagem": "150mg", "frequencia": "2/dia"},
+        {"nome": "Metoclopramida", "dosagem": "10mg", "frequencia": "3/dia"}
+      ]
+    }
+  },
+  {
+    "_id": 813,
+    "data_hora": "2017-07-30T08:30:00Z",
+    "paciente_id": 213,
+    "medico_id": 101
+  },
+  {
+    "_id": 814,
+    "data_hora": "2018-02-14T10:45:00Z",
+    "paciente_id": 214,
+    "medico_id": 102
+  },
+  {
+    "_id": 815,
+    "data_hora": "2018-04-19T15:30:00Z",
+    "paciente_id": 215,
+    "medico_id": 103,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Ibuprofeno", "dosagem": "400mg", "frequencia": "12/12h"},
+        {"nome": "Dipirona", "dosagem": "500mg", "frequencia": "8/8h"}
+      ]
+    }
+  },
+  {
+    "_id": 816,
+    "data_hora": "2018-06-25T09:00:00Z",
+    "paciente_id": 201,
+    "medico_id": 104
+  },
+  {
+    "_id": 817,
+    "data_hora": "2019-01-05T11:00:00Z",
+    "paciente_id": 202,
+    "medico_id": 105
+  },
+  {
+    "_id": 818,
+    "data_hora": "2019-03-17T14:15:00Z",
+    "paciente_id": 203,
+    "medico_id": 106,
+    "receita": {
+      "medicamentos": [
+        {"nome": "Amoxicilina", "dosagem": "500mg", "frequencia": "8/8h"},
+        {"nome": "Prednisona", "dosagem": "20mg", "frequencia": "1/dia"}
+      ]
+    }
+  },
+  {
+    "_id": 819,
+    "data_hora": "2020-10-21T10:30:00Z",
+    "paciente_id": 204,
+    "medico_id": 107
+  },
+  {
+    "_id": 820,
+    "data_hora": "2021-11-30T09:00:00Z",
+    "paciente_id": 205,
+    "medico_id": 108
+  }
+]
