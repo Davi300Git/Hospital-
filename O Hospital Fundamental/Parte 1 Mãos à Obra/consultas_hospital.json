@@ -1,0 +1,162 @@
+[
+  {
+    "id_consulta": 1,
+    "id_paciente": 101,
+    "id_medico": 3,
+    "data_hora": "2025-05-10T08:00:00",
+    "especialidade": "Clínico Geral",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 2,
+    "id_paciente": 102,
+    "id_medico": 4,
+    "data_hora": "2025-05-11T10:30:00",
+    "especialidade": "Pediatria",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 3,
+    "id_paciente": 103,
+    "id_medico": 5,
+    "data_hora": "2025-05-12T14:00:00",
+    "especialidade": "Ortopedia",
+    "status": "cancelada"
+  },
+  {
+    "id_consulta": 4,
+    "id_paciente": 104,
+    "id_medico": 3,
+    "data_hora": "2025-05-13T09:00:00",
+    "especialidade": "Clínico Geral",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 5,
+    "id_paciente": 105,
+    "id_medico": 6,
+    "data_hora": "2025-05-13T11:30:00",
+    "especialidade": "Psiquiatria",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 6,
+    "id_paciente": 106,
+    "id_medico": 7,
+    "data_hora": "2025-05-14T15:00:00",
+    "especialidade": "Cardiologia",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 7,
+    "id_paciente": 107,
+    "id_medico": 4,
+    "data_hora": "2025-05-14T16:00:00",
+    "especialidade": "Pediatria",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 8,
+    "id_paciente": 108,
+    "id_medico": 5,
+    "data_hora": "2025-05-15T08:30:00",
+    "especialidade": "Ortopedia",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 9,
+    "id_paciente": 109,
+    "id_medico": 3,
+    "data_hora": "2025-05-15T13:00:00",
+    "especialidade": "Clínico Geral",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 10,
+    "id_paciente": 110,
+    "id_medico": 6,
+    "data_hora": "2025-05-16T09:30:00",
+    "especialidade": "Psiquiatria",
+    "status": "cancelada"
+  },
+  {
+    "id_consulta": 11,
+    "id_paciente": 111,
+    "id_medico": 7,
+    "data_hora": "2025-05-17T11:00:00",
+    "especialidade": "Cardiologia",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 12,
+    "id_paciente": 112,
+    "id_medico": 4,
+    "data_hora": "2025-05-17T13:30:00",
+    "especialidade": "Pediatria",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 13,
+    "id_paciente": 113,
+    "id_medico": 5,
+    "data_hora": "2025-05-18T15:00:00",
+    "especialidade": "Ortopedia",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 14,
+    "id_paciente": 114,
+    "id_medico": 6,
+    "data_hora": "2025-05-19T09:00:00",
+    "especialidade": "Psiquiatria",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 15,
+    "id_paciente": 115,
+    "id_medico": 7,
+    "data_hora": "2025-05-19T10:45:00",
+    "especialidade": "Cardiologia",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 16,
+    "id_paciente": 116,
+    "id_medico": 3,
+    "data_hora": "2025-05-20T08:00:00",
+    "especialidade": "Clínico Geral",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 17,
+    "id_paciente": 117,
+    "id_medico": 5,
+    "data_hora": "2025-05-20T10:00:00",
+    "especialidade": "Ortopedia",
+    "status": "cancelada"
+  },
+  {
+    "id_consulta": 18,
+    "id_paciente": 118,
+    "id_medico": 4,
+    "data_hora": "2025-05-21T13:00:00",
+    "especialidade": "Pediatria",
+    "status": "agendada"
+  },
+  {
+    "id_consulta": 19,
+    "id_paciente": 119,
+    "id_medico": 6,
+    "data_hora": "2025-05-21T14:30:00",
+    "especialidade": "Psiquiatria",
+    "status": "realizada"
+  },
+  {
+    "id_consulta": 20,
+    "id_paciente": 120,
+    "id_medico": 7,
+    "data_hora": "2025-05-22T16:00:00",
+    "especialidade": "Cardiologia",
+    "status": "agendada"
+  }
+]
