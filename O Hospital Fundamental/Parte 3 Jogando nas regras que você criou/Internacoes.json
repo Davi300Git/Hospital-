@@ -1,0 +1,86 @@
+[
+  {
+    "_id": 701,
+    "data_entrada": "2016-02-15T10:00:00Z",
+    "data_prevista_alta": "2016-02-20T10:00:00Z",
+    "data_efetiva_alta": "2016-02-19T18:00:00Z",
+    "procedimentos": "Cirurgia abdominal, antibióticos e fisioterapia",
+    "quarto_id": 501,
+    "paciente_id": 201,
+    "medico_id": 101,
+    "enfermeiros_ids": [601, 602],
+    "convenio_id": 301
+  },
+  {
+    "_id": 702,
+    "data_entrada": "2017-06-01T08:30:00Z",
+    "data_prevista_alta": "2017-06-10T12:00:00Z",
+    "data_efetiva_alta": "2017-06-09T14:00:00Z",
+    "procedimentos": "Tratamento clínico e acompanhamento",
+    "quarto_id": 502,
+    "paciente_id": 202,
+    "medico_id": 102,
+    "enfermeiros_ids": [603, 604],
+    "convenio_id": 302
+  },
+  {
+    "_id": 703,
+    "data_entrada": "2018-03-10T09:00:00Z",
+    "data_prevista_alta": "2018-03-20T09:00:00Z",
+    "data_efetiva_alta": "2018-03-19T16:00:00Z",
+    "procedimentos": "Tratamento dermatológico, aplicação de medicação tópica",
+    "quarto_id": 503,
+    "paciente_id": 203,
+    "medico_id": 104,
+    "enfermeiros_ids": [605, 606],
+    "convenio_id": 303
+  },
+  {
+    "_id": 704,
+    "data_entrada": "2019-11-05T14:00:00Z",
+    "data_prevista_alta": "2019-11-15T10:00:00Z",
+    "data_efetiva_alta": "2019-11-14T09:00:00Z",
+    "procedimentos": "Cirurgia cardíaca, medicação e fisioterapia",
+    "quarto_id": 501,
+    "paciente_id": 204,
+    "medico_id": 105,
+    "enfermeiros_ids": [607, 608],
+    "convenio_id": 304
+  },
+  {
+    "_id": 705,
+    "data_entrada": "2020-07-20T11:00:00Z",
+    "data_prevista_alta": "2020-07-30T12:00:00Z",
+    "data_efetiva_alta": null,
+    "procedimentos": "Monitoramento clínico, exames laboratoriais",
+    "quarto_id": 502,
+    "paciente_id": 201,
+    "medico_id": 102,
+    "enfermeiros_ids": [609, 610],
+    "convenio_id": 301
+  },
+  {
+    "_id": 706,
+    "data_entrada": "2021-05-15T08:00:00Z",
+    "data_prevista_alta": "2021-05-25T09:00:00Z",
+    "data_efetiva_alta": "2021-05-24T11:00:00Z",
+    "procedimentos": "Tratamento clínico para gastrenterologia",
+    "quarto_id": 503,
+    "paciente_id": 205,
+    "medico_id": 103,
+    "enfermeiros_ids": [601, 603],
+    "convenio_id": 302
+  },
+  {
+    "_id": 707,
+    "data_entrada": "2021-12-01T07:30:00Z",
+    "data_prevista_alta": "2021-12-10T10:00:00Z",
+    "data_efetiva_alta": null,
+    "procedimentos": "Acompanhamento clínico e exames de rotina",
+    "quarto_id": 501,
+    "paciente_id": 206,
+    "medico_id": 102,
+    "enfermeiros_ids": [604, 605],
+    "convenio_id": 303
+  }
+]
