@@ -1,0 +1,142 @@
+[
+    {
+      "id_receita": 1,
+      "id_medicamento": 1,
+      "quantidade": 20,
+      "posologia": "1 comprimido de 8/8 horas por 5 dias",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 1,
+      "id_medicamento": 3,
+      "quantidade": 14,
+      "posologia": "1 comprimido de 12/12 horas por 7 dias",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 2,
+      "id_medicamento": 2,
+      "quantidade": 10,
+      "posologia": "1 comprimido de 6/6 horas por dor",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 2,
+      "id_medicamento": 5,
+      "quantidade": 15,
+      "posologia": "1 cápsula ao dia em jejum",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 3,
+      "id_medicamento": 4,
+      "quantidade": 10,
+      "posologia": "1 comprimido antes do almoço e jantar",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 3,
+      "id_medicamento": 7,
+      "quantidade": 5,
+      "posologia": "1 comprimido ao dia por 5 dias",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 4,
+      "id_medicamento": 6,
+      "quantidade": 21,
+      "posologia": "1 comprimido de 8/8 horas por 7 dias",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 4,
+      "id_medicamento": 9,
+      "quantidade": 10,
+      "posologia": "1 comprimido ao dia pela manhã",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 5,
+      "id_medicamento": 8,
+      "quantidade": 5,
+      "posologia": "1 comprimido ao deitar",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 5,
+      "id_medicamento": 10,
+      "quantidade": 30,
+      "posologia": "1 comprimido ao dia",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 6,
+      "id_medicamento": 12,
+      "quantidade": 30,
+      "posologia": "1 comprimido pela manhã",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 6,
+      "id_medicamento": 15,
+      "quantidade": 1,
+      "posologia": "Aplicar fina camada 2x ao dia",
+      "via_administracao": "Tópica"
+    },
+    {
+      "id_receita": 7,
+      "id_medicamento": 11,
+      "quantidade": 60,
+      "posologia": "1 comprimido ao dia",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 7,
+      "id_medicamento": 14,
+      "quantidade": 30,
+      "posologia": "1 comprimido antes do café",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 8,
+      "id_medicamento": 13,
+      "quantidade": 30,
+      "posologia": "1 comprimido ao deitar",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 8,
+      "id_medicamento": 16,
+      "quantidade": 20,
+      "posologia": "1 comprimido de 12/12 horas",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 9,
+      "id_medicamento": 18,
+      "quantidade": 10,
+      "posologia": "1 comprimido quando necessário",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 9,
+      "id_medicamento": 20,
+      "quantidade": 10,
+      "posologia": "1 comprimido de 6/6 horas se dor",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 10,
+      "id_medicamento": 17,
+      "quantidade": 28,
+      "posologia": "1 comprimido ao dia",
+      "via_administracao": "Oral"
+    },
+    {
+      "id_receita": 10,
+      "id_medicamento": 19,
+      "quantidade": 5,
+      "posologia": "1 comprimido ao deitar se necessário",
+      "via_administracao": "Oral"
+    }
+  ]
