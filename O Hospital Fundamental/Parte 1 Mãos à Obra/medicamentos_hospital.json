@@ -1,0 +1,22 @@
+[
+    {
+      "id_medicamento": 1,
+      "nome": "Paracetamol",
+      "descricao": "Analgésico e antitérmico"
+    },
+    {
+      "id_medicamento": 2,
+      "nome": "Ibuprofeno",
+      "descricao": "Anti-inflamatório não esteroidal"
+    },
+    {
+      "id_medicamento": 3,
+      "nome": "Amoxicilina",
+      "descricao": "Antibiótico penicilina"
+    },
+    {
+      "id_medicamento": 4,
+      "nome": "Omeprazol",
+      "descricao": "Inibidor de bomba de prótons"
+    }
+]
